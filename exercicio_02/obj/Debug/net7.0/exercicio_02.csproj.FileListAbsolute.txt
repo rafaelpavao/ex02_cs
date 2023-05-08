@@ -1,0 +1,15 @@
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/bin/Debug/net7.0/exercicio_02
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/bin/Debug/net7.0/exercicio_02.deps.json
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/bin/Debug/net7.0/exercicio_02.runtimeconfig.json
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/bin/Debug/net7.0/exercicio_02.dll
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/bin/Debug/net7.0/exercicio_02.pdb
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/exercicio_02.csproj.AssemblyReference.cache
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/exercicio_02.AssemblyInfoInputs.cache
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/exercicio_02.AssemblyInfo.cs
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/exercicio_02.csproj.CoreCompileInputs.cache
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/exercicio_02.dll
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/refint/exercicio_02.dll
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/exercicio_02.pdb
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/exercicio_02.genruntimeconfig.cache
+/Users/rafaelpavao/Documents/<ALLOG>/aula01/exercicio_02/obj/Debug/net7.0/ref/exercicio_02.dll
